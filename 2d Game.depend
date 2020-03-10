@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1309610801 source:c:\users\hoang anh\documents\2d game\console.cpp
+	"console.h"
+
+1309610507 c:\users\hoang anh\documents\2d game\console.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<stdio.h>
+	<sstream>
+	<conio.h>
+	<windows.h>
+	<termios.h>
+	<unistd.h>
+	<fcntl.h>
+	"keys.h"
+	"ConsoleColor.h"
+
+1309610783 c:\users\hoang anh\documents\2d game\keys.h
+
+1281188425 c:\users\hoang anh\documents\2d game\consolecolor.h
+
+1583811111 source:c:\users\hoang anh\documents\2d game\main.cpp
+	<iostream>
+	"console.h"
+	<time.h>
+	<stdio.h>
+
